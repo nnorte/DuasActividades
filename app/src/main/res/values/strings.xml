@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Duas Actividades</string>
+    <string name="button_enviar">Enviar</string>
+    <string name="editText_enviar_mensagem">Digite sua mensagem aqui</string>
+    <string name="textView_cabecalho">Mensagem recebida</string>
+    <string name="textView_mensagem">A mensagem</string>
+    <string name="button_responder">Responder</string>
+    <string name="editText_mensagem_resposta">Digite aqui a sua resposta</string>
+    <string name="textView_cabecalho_resposta">Resposta recebida</string>
+    <string name="textView_mensagem_resposta">Resposta</string>
+</resources>
